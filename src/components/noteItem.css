@@ -1,0 +1,25 @@
+.note_body_style {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-width: none;
+  margin: 0 auto;
+  background-color: #C3E8BD;
+  box-shadow: 2px 2px 2px 5px #5B7553;
+  border: 2px solid black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.note_title_style {
+  background-color: #9DDBAD;
+  box-shadow: 1px 1px 1px 1px #5B7553;
+  border: 2px solid black;
+  font-size: x-large;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.note_description_style {
+  font-style: italic;
+}
